@@ -1,8 +1,8 @@
 {
-  "title": "Shop Homepage",
-  "name": "startbootstrap-shop-homepage",
+  "title": "HandCraftt.como",
+  "name": "HandCraftt.com Website",
   "version": "4.0.0-beta",
-  "description": "A shop homepage HTML template built with Bootstrap",
+  "description": "A Professional Wooden Resin Ring, Necklace, Bracelet, & Earring Artisan.",
   "keywords": [
     "css",
     "sass",
@@ -11,19 +11,19 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/shop-homepage",
+  "homepage": "https://www.handcraftt.com",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-shop-homepage/issues",
+    "url": "https://github.com/okabrionz/handcraftt/issues",
     "email": "feedback@startbootstrap.com"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "Oka bRionZ",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "Oka bRionZ (https://www.okabrionz.com/)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-shop-homepage.git"
+    "url": "https://github.com/okabrionz/handcraftt.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
